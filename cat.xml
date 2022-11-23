@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="3.xsl"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+<Employee>
+    <details>
+        <id>001</id>
+        <name>Raj</name>
+        <age>22</age>
+        <salary>50000</salary>
+        <email>raj123@gmail.com</email>
+        <mobnum>9831271351</mobnum>
+        <desg>Software Dev</desg>
+    </details>
+</Employee>
